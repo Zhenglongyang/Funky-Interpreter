@@ -1,11 +1,11 @@
-#User Guide for our Funky Interpreter
+User Guide for our Funky Interpreter
 
 by Zheng Long Yang and Dina Benkirane
 
 June 2019
 
-##1
-###1.1
+1
+1.1
 
 Introduction
 Abstract
